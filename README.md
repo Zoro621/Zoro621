@@ -47,11 +47,6 @@ I'm an AI engineer working across **retrieval-augmented generation, LLM fine-tun
 | **Vision & optimization** | OpenCV, Stable Diffusion, TensorRT, quantization |
 | **Delivery & automation** | FastAPI, Docker, GitHub Actions, Vercel, n8n |
 
-## Experience
-
-- **Freelance AI Engineer · January 2026–present** — Built a classification pipeline for 60,000+ UK council financial records, including data enrichment, Llama 3.1 QLoRA fine-tuning, and resumable batch inference.
-- **AI/ML Intern at Certura · June–July 2025** — Fine-tuned Llama 3.2 3B for medical reasoning with QLoRA and Unsloth, tracked experiments, and published the adapter and tokenizer with inference documentation.
-
 ---
 
 <div align="center">
