@@ -66,7 +66,7 @@ I'm open to AI engineering roles, freelance projects, and collaborations around 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:134E4A,100:22D3EE&height=230&section=header&text=Emad%20Hasan&fontSize=68&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20RAG%20%26%20Agentic%20Systems%20%C2%B7%20LLM%20Fine-Tuning&descSize=20&descAlignY=62" width="100%" alt="Emad Hasan, AI Engineer" />
+<img src="assets/banner.svg" width="100%" alt="Emad Hasan, AI Engineer" />
 
 <a href="https://emad-hasan-portfolio.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=760&height=50&repeat=true&lines=I+build+RAG+systems+that+cite+their+sources.;I+ship+multi-agent+workflows+that+actually+run.;I+red-team+and+harden+RAG+against+jailbreaks.;I+fine-tune+open+LLMs+with+QLoRA+on+modest+GPUs.;MedVisionAI+%E2%86%92+MCP+servers+%E2%86%92+evals+in+CI%2FCD." alt="Animated text: RAG systems that cite their sources, multi-agent workflows that run, QLoRA fine-tuning, and evals in CI/CD" />
@@ -81,7 +81,6 @@ I'm open to AI engineering roles, freelance projects, and collaborations around 
   <a href="https://emad-hasan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/emad-hasan7/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
   <a href="mailto:emadhasan188@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Zoro621&label=Profile%20views&color=22D3EE&style=for-the-badge&labelColor=0D1117" alt="Profile views" />
 </p>
 
 </div>
@@ -93,7 +92,7 @@ I'm open to AI engineering roles, freelance projects, and collaborations around 
 > [!NOTE]
 > **Short on time?** Here's everything a recruiter needs.
 
-| | |
+| Snapshot | Details |
 | :--- | :--- |
 | 🎯 **Looking for** | AI Engineer · LLM Engineer · Full-Stack AI (RAG / agents) |
 | 🧠 **Strongest at** | Retrieval-augmented generation, agentic workflows (LangGraph), QLoRA fine-tuning |
@@ -255,12 +254,10 @@ flowchart LR
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zoro621&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&border_radius=12" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoro621&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&border_radius=12" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zoro621&show_icons=true&hide_border=true&hide_rank=true&hide=stars,issues&include_all_commits=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&border_radius=12" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoro621&layout=compact&hide_border=true&hide=jupyter%20notebook,tex,css&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&border_radius=12" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=Zoro621&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border_radius=12" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zoro621&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&area_color=22D3EE&hide_border=true&radius=12" alt="Contribution activity graph" />
 
 <!-- Needs the snake.yml workflow (see .github/workflows) to generate the "output" branch. -->
 <picture>
@@ -284,8 +281,10 @@ I'm open to **AI engineering roles, freelance projects, and collaborations** aro
 
 <sub>Good retrieval. Clear reasoning. Software people can use.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:134E4A,100:0D1117&height=110&section=footer" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
 
 </div>
 
 <!-- Decorative banners, typing animation and stat cards are externally hosted. If a service is down, the text content above stays readable. -->
+
+
