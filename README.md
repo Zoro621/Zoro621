@@ -39,6 +39,8 @@ I'm an AI engineer working across **retrieval-augmented generation, LLM fine-tun
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,ts,nextjs,react,docker,postgres,aws,gcp,git&perline=6" alt="Python, PyTorch, TensorFlow, FastAPI, TypeScript, Next.js, React, Docker, PostgreSQL, AWS, Google Cloud, and Git" />
 </p>
 
+<div align="center">
+
 | Area | Tools & techniques |
 | :--- | :--- |
 | **LLMs & agents** | LangGraph, LangChain, LlamaIndex, CrewAI, Hugging Face Transformers |
@@ -46,6 +48,8 @@ I'm an AI engineer working across **retrieval-augmented generation, LLM fine-tun
 | **Fine-tuning & evaluation** | QLoRA, PEFT, TRL, Unsloth, Weights & Biases, adversarial evaluation |
 | **Vision & optimization** | OpenCV, Stable Diffusion, TensorRT, quantization |
 | **Delivery & automation** | FastAPI, Docker, GitHub Actions, Vercel, n8n |
+
+</div>
 
 <div align="center">
 
@@ -72,4 +76,3 @@ I'm open to AI engineering roles, freelance projects, and collaborations around 
 </div>
 
 <!-- The typing animation and decorative banner are externally hosted SVGs. Core profile content remains readable if an image service is temporarily unavailable. -->
-
